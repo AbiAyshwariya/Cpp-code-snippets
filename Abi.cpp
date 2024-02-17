@@ -1,3 +1,4 @@
+//DDA Line drawing algorithm used in Computer Graphics
 #include<stdio.h>
 #include<conio.h>
 #include<graphics.h>
